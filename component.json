@@ -1,0 +1,17 @@
+{
+  "name": "Index",
+  "version": "1.0.0",
+  "description": "Главная страница",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/index",
+  "props": {
+    "common": false,
+    "liquid": true
+  },
+  "dependencies": {
+    "slider": "https://github.com/insales-components/slider",
+    "products_slider": "https://github.com/insales-components/products_slider",
+    "cellsio": "https://github.com/insales-components/cellsio"
+  }
+}
