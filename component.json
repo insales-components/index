@@ -10,7 +10,7 @@
     "liquid": true
   },
   "dependencies": {
-    "slider": "https://github.com/insales-components/slider",
+    "promo_slider": "https://github.com/insales-components/promo_slider",
     "products_slider": "https://github.com/insales-components/products_slider",
     "cellsio": "https://github.com/insales-components/cellsio"
   }
